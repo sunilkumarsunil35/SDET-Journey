@@ -1,0 +1,25 @@
+# Compiled output
+*.class
+target/
+out/
+bin/
+
+# Packages and logs
+*.jar
+*.war
+*.log
+hs_err_pid*
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
+
+# Local tool settings and secrets
+.claude/
+.env
